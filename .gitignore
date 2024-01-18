@@ -1,0 +1,13 @@
+.classpath
+.project
+test-cases/
+*.class
+out/
+.idea
+*.iml
+*.jar
+word-list.txt
+simple-inheritance-example/
+p2-ctudel.code-workspace
+.vscode/launch.json
+.vscode/sftp.json
